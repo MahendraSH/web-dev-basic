@@ -5,7 +5,7 @@
 * paragaaph  ``` <p> ```
 * italics ```<em>```
 * Bold ```<strong > ```
-* line barke ```<br>``
+* line barke ```<br>```
 * horizontal line ``` <hr>```
 * Some Symbols in html using ``` like &gt; &lt ; and so on ```
 * abrivation ```<abbr type='full name '> </abbr>```

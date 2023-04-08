@@ -1,0 +1,13 @@
+*{
+    background-color: black;
+    color: whitesmoke;
+}
+
+
+table ,tr, td, th, caption {
+    background-color: black;
+    color: whitesmoke;
+    border: 0.1rem solid white;
+    border-collapse: collapse;
+    padding: 0.7rem;
+}

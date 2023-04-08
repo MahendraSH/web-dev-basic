@@ -195,5 +195,9 @@
                 <button type="submit" formaction="https://httpbin.org/post" formmethod="post">Post</button>
                 <button type="reset">Reset</button>
             </form>
-```
 
+            
+
+```
+![image](./img/Web%20capture_8-4-2023_155546_127.0.0.1.jpeg)
+![imgage2](./img/Web%20capture_8-4-2023_163450_127.0.0.1.jpeg)

@@ -1,0 +1,26 @@
+body{
+    font-size: 1.3rem;
+    font-family: cursive;
+
+}
+.columns{
+    
+    columns: 4 10rem ;
+    column-gap: 2rem;
+    column-rule: 0.2rem solid #222;
+}
+.columns p{
+    margin-top: 0;
+}
+
+.columns .quates{
+    column-span: all;
+    text-align: center;
+    padding: 1rem 3rem;
+    background-color: #333;
+    color: whitesmoke;
+    border-radius: 2rem;
+}
+.donotwarp{
+    white-space: nowrap;    
+}

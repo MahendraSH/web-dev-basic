@@ -1,0 +1,33 @@
+*{
+      font-family: cursive;
+      font-size: 1.2rem;
+}
+
+section{
+    background-color: antiquewhite;
+    display: flow-root;
+}
+
+.block{
+    width: 10rem;
+    height: 10rem;
+    color: white;
+    background-color: black;
+    padding: 1rem;
+    font-size: 2rem;
+    
+}
+
+.left{
+    float: left;
+    margin-right: 1rem;
+}
+.right{
+    float: right;
+    margin-left: 1rem;
+}
+
+
+
+
+
